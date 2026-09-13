@@ -1,4 +1,4 @@
-# Bonjour, je suis Lounis 👋
+# Bonjour, je suis Lounis
 
 ## Data Analyst | Power BI • SQL • Python
 
