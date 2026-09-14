@@ -51,7 +51,7 @@ Analyse des clients, produits et ventes à l’aide de jointures, agrégations, 
 
 Réalisation d’un premier projet de régression multiple : préparation des données, entraînement, évaluation et prédiction sur de nouvelles données en Machine Learning avec Python et scikit-learn.
 
-👉 [Voir le notebook](NOTEBOOK/hospital_stay_prediction.ipynb)
+👉 [Voir le notebook](https://github.com/LounisBen/NOTEBOOK/hospital_stay_prediction.ipynb)
 
 ---
 
