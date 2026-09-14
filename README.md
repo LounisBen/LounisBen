@@ -47,9 +47,11 @@ Analyse des clients, produits et ventes à l’aide de jointures, agrégations, 
 
 ---
 
-## En cours
+## Machine Learning — Prédiction de la durée de séjour hospitalier
 
-Je poursuis actuellement ma montée en compétences en **Machine Learning avec Python et scikit-learn**, notamment sur les modèles de régression et leur évaluation.
+Réalisation d’un premier projet de régression multiple : préparation des données, entraînement, évaluation et prédiction sur de nouvelles données en Machine Learning avec Python et scikit-learn.
+
+👉 
 
 ---
 
